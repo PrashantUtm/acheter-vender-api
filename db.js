@@ -1,8 +1,9 @@
 const listings = require("./data/listings");
 const users = require("./data/users");
-const category = require("./data/category");
+const categories = require("./data/categories");
 
 module.exports = {
     listings,
-    users
+    users,
+    categories
 }
