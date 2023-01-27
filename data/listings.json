@@ -10,7 +10,8 @@
       "seller": "2",
       "dateAdded": "2022-11-10",
       "picture": "https://www.energysistem.com/cdnassets/products/44976/principal_2000.jpg",
-      "interestedBuyers": ["4"]
+      "interestedBuyers": ["4"],
+      "pickupLocation": ""
     },
     {
       "id": "2",
@@ -23,7 +24,8 @@
       "seller": "1",
       "dateAdded": "2022-01-15",
       "picture": "https://m.media-amazon.com/images/I/71D9ImsvEtL._UY500_.jpg",
-      "interestedBuyers": []
+      "interestedBuyers": [],
+      "pickupLocation": ""
     },
     {
       "id": "3",
@@ -36,7 +38,8 @@
       "seller": "3",
       "dateAdded": "2022-08-10",
       "picture": "https://teakworld.mu/wp-content/uploads/2022/04/Dining_table_MV35T.jpg",
-      "interestedBuyers": []
+      "interestedBuyers": [],
+      "pickupLocation": ""
     },
     {
       "id": "4",
@@ -49,6 +52,7 @@
       "seller": "3",
       "dateAdded": "2022-12-10",
       "picture": "https://resiglas.mu/wp-content/uploads/2020/10/qb60-web.jpg",
-      "interestedBuyers": ["1", "2"]
+      "interestedBuyers": ["1", "2"],
+      "pickupLocation": ""
     }
   ]
